@@ -1,0 +1,25 @@
+## Live2D Cubism Core Changelog
+
+*2017-08-17*
+
+- Implement physics
+- Improve asset import/reimport
+- Add auto-eye-blink component
+- Add convenience array extension method
+- Fix animation curve generation
+- Fix calculating transform on masking rendering [#4](https://github.com/Live2D/CubismUnityComponents/issues/4)
+- Update native plugin
+
+
+*2017-07-12*
+
+- Improve performance
+- Add experimental WebGL support
+- Fix mouth controller issue [#1](https://github.com/Live2D/CubismUnityComponents/issues/1)
+- Fix inspectors issue [#3](https://github.com/Live2D/CubismUnityComponents/issues/3)
+- Fix clipping issue [#4](https://github.com/Live2D/CubismUnityComponents/issues/4)
+- Fix opacity issue [#5](https://github.com/Live2D/CubismUnityComponents/issues/5)
+- Fix minor issues
+- Merge shader optimization [#2](https://github.com/Live2D/CubismUnityComponents/pull/2)
+- Restructure directory structure
+- Update native plugin

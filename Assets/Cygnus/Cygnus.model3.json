@@ -1,0 +1,21 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Cygnus.moc3",
+		"Textures": [
+			"Cygnus.2048/texture_00.png"
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

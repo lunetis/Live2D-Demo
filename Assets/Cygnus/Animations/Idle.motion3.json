@@ -1,0 +1,123 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 2.667,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 4,
+		"TotalSegmentCount": 13,
+		"TotalPointCount": 35,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeLOpen",
+			"Segments": [
+				0,
+				1,
+				0,
+				1.8,
+				1,
+				1,
+				1.811,
+				1,
+				1.822,
+				0,
+				1.833,
+				0,
+				1,
+				1.889,
+				0,
+				1.944,
+				1,
+				2,
+				1,
+				0,
+				2.667,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeROpen",
+			"Segments": [
+				0,
+				1,
+				0,
+				1.8,
+				1,
+				1,
+				1.811,
+				1,
+				1.822,
+				0,
+				1.833,
+				0,
+				1,
+				1.889,
+				0,
+				1.944,
+				1,
+				2,
+				1,
+				0,
+				2.667,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBreath",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.456,
+				0,
+				0.911,
+				0.69,
+				1.367,
+				0.69,
+				1,
+				1.8,
+				0.69,
+				2.233,
+				0,
+				2.667,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamHairFront",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.222,
+				0.47,
+				0.444,
+				1,
+				0.667,
+				1,
+				1,
+				1.067,
+				1,
+				1.467,
+				-1,
+				1.867,
+				-1,
+				1,
+				2.133,
+				-1,
+				2.4,
+				-0.654,
+				2.667,
+				0
+			]
+		}
+	]
+}
