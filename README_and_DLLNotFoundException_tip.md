@@ -1,7 +1,7 @@
 # Live2D Demo
 Cubism 3 SDK for Unity Demo.
 
-Not permitted for commercial purposes.
+Texture file is not permitted for commercial purposes.
 
 If Unity Editor prints DLLNotFoundException: Live2DCubismCore.dll, Follow these steps:
 
